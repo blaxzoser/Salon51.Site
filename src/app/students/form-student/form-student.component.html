@@ -1,0 +1,54 @@
+<div class="container">
+  <h4>Ingresa Alumno</h4>
+  <form (ngSubmit)="onSubmit()" #studentForm="ngForm">
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <label for="name">Nombre Completo</label>
+        <input type="text" name="name" id="name" class="form-control" [(ngModel)]="model.name" #name="ngModel" required>
+        <div [hidden]="name.valid" class="alert alert-danger">
+          El nombre es requerido
+        </div>
+      </div>
+      <div class="form-group col-md-2">
+        <label for="age">Edad:</label>
+        <input id="age" name="age" type="text" class="form-control" [(ngModel)]="model.age" #age="ngModel" required>
+        <div [hidden]="age.valid" class="alert alert-danger">
+          Edad obligatoria
+        </div>
+      </div>
+      <div class="form-group col-md-4">
+        <label for="email">Email:</label>
+        <input width="100px" id="email" name="email" class="form-control" type="email" [(ngModel)]="model.email" #email="ngModel"
+          placeholder="you@example.com" required>
+      </div>
+    </div>
+    <div class="form-row">
+      <div class="form-group col-md-2">
+        <label for="register">Fecha de Ingreso:</label>
+        <input id="register" name="register" type="date" class="form-control" #register="ngModel" [(ngModel)]="model.register">
+      </div>
+      <div class="form-group col-md-5">
+        <label for="phone">Telefono:</label>
+        <input id="phone" name="phone" type="text" class="form-control" [(ngModel)]="model.phone" #phone="ngModel">
+      </div>
+      <div class="form-group col-md-5">
+          <label for="from">Providencia:</label>
+          <input id="from" name="from" type="text" class="form-control" [(ngModel)]="model.from" #from="ngModel">
+        </div>
+    </div>
+    <div class="form-group">
+      <label for="typePublicity">Como se entero de nosotros:</label>
+      <select class="form-control" id="typePublicity" required [(ngModel)]="model.typePublicity" name="typePublicity" #typePublicity="ngModel">
+        <option *ngFor="let typePublicity of typePublicities" [value]="typePublicity">{{typePublicity}}</option>
+      </select>
+      <div [hidden]="typePublicity.valid" class="alert alert-danger">
+        Requerido
+      </div>
+    </div>
+
+
+    <button [disabled]="!studentForm.form.valid" class="btn btn-primary btn-lg btn-block" type="submit">Enviar</button>
+    <button type="button" class="btn btn-default" (click)="newStudent(); studentForm.reset()">Nuevo Estudiante</button>
+  </form>
+</div>
+{{diagnostic}} {{model.name}}

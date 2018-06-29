@@ -1,0 +1,42 @@
+<br>
+<br>
+<table class="table table-striped">
+  <thead class="thead-light">
+    <td scope="col">Nombre</td>
+    <td scope="col">Edad</td>
+    <td scope="col">Email</td>
+    <td scope="col">Fecha Registro</td>
+    <td scope="col">Telefono</td>
+    <td scope="col">Como se Entero</td>
+    <td scope="col">Lugar Procedencia</td>
+    <td scope="col"></td>
+  </thead>
+  <tbody>
+    <tr *ngFor="let student of students">
+      <td>
+       {{student.name}} 
+      </td>
+      <td>
+       {{student.age }} 
+      </td>
+      <td>
+        {{student.email }} 
+      </td>
+      <td>
+         {{student.register }} 
+      </td>
+      <td>
+        {{student.phone }} 
+      </td>
+      <td>
+        {{student.typePublicity }} 
+      </td>
+      <td>
+          {{student.from }} 
+        </td>
+      <td>
+        <a [routerLink]="['/students', student.id]">editar</a>
+      </td>
+    </tr>
+  </tbody>
+</table>

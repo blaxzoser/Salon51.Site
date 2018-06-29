@@ -1,0 +1,26 @@
+<br>
+<br>
+<table class="table table-striped">
+  <thead class="thead-light">
+    <td scope="col">Nombre</td>
+    <td scope="col">Telefono</td>
+    <td scope="col">Email</td>   
+    <td scope="col"></td>
+  </thead>
+  <tbody>
+    <tr *ngFor="let teacher of teachers">
+      <td>
+       {{teacher.name}} 
+      </td>
+      <td>
+       {{teacher.phone }} 
+      </td>
+      <td>
+        {{teacher.email }} 
+      </td>     
+      <td>
+        <a [routerLink]="['/teachers', teacher.id]">editar</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
