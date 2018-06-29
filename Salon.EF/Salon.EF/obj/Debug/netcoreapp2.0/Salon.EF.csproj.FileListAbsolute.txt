@@ -1,0 +1,9 @@
+C:\Users\bebote\source\repos\Salon.EF\Salon.EF\bin\Debug\netcoreapp2.0\Salon.EF.deps.json
+C:\Users\bebote\source\repos\Salon.EF\Salon.EF\bin\Debug\netcoreapp2.0\Salon.EF.dll
+C:\Users\bebote\source\repos\Salon.EF\Salon.EF\obj\Debug\netcoreapp2.0\Salon.EF.csprojResolveAssemblyReference.cache
+C:\Users\bebote\source\repos\Salon.EF\Salon.EF\obj\Debug\netcoreapp2.0\Salon.EF.csproj.CoreCompileInputs.cache
+C:\Users\bebote\source\repos\Salon.EF\Salon.EF\obj\Debug\netcoreapp2.0\Salon.EF.AssemblyInfoInputs.cache
+C:\Users\bebote\source\repos\Salon.EF\Salon.EF\obj\Debug\netcoreapp2.0\Salon.EF.AssemblyInfo.cs
+C:\Users\bebote\source\repos\Salon.EF\Salon.EF\bin\Debug\netcoreapp2.0\Salon.EF.pdb
+C:\Users\bebote\source\repos\Salon.EF\Salon.EF\obj\Debug\netcoreapp2.0\Salon.EF.dll
+C:\Users\bebote\source\repos\Salon.EF\Salon.EF\obj\Debug\netcoreapp2.0\Salon.EF.pdb

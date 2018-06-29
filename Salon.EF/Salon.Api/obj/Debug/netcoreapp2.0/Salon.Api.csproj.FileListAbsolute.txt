@@ -1,0 +1,13 @@
+C:\Users\bebote\source\repos\Salon.EF\Salon.Api\bin\Debug\netcoreapp2.0\Salon.Api.deps.json
+C:\Users\bebote\source\repos\Salon.EF\Salon.Api\bin\Debug\netcoreapp2.0\Salon.Api.runtimeconfig.json
+C:\Users\bebote\source\repos\Salon.EF\Salon.Api\bin\Debug\netcoreapp2.0\Salon.Api.runtimeconfig.dev.json
+C:\Users\bebote\source\repos\Salon.EF\Salon.Api\bin\Debug\netcoreapp2.0\Salon.Api.dll
+C:\Users\bebote\source\repos\Salon.EF\Salon.Api\bin\Debug\netcoreapp2.0\Salon.Api.pdb
+C:\Users\bebote\source\repos\Salon.EF\Salon.Api\bin\Debug\netcoreapp2.0\Salon.EF.dll
+C:\Users\bebote\source\repos\Salon.EF\Salon.Api\bin\Debug\netcoreapp2.0\Salon.EF.pdb
+C:\Users\bebote\source\repos\Salon.EF\Salon.Api\obj\Debug\netcoreapp2.0\Salon.Api.csprojResolveAssemblyReference.cache
+C:\Users\bebote\source\repos\Salon.EF\Salon.Api\obj\Debug\netcoreapp2.0\Salon.Api.csproj.CoreCompileInputs.cache
+C:\Users\bebote\source\repos\Salon.EF\Salon.Api\obj\Debug\netcoreapp2.0\Salon.Api.AssemblyInfoInputs.cache
+C:\Users\bebote\source\repos\Salon.EF\Salon.Api\obj\Debug\netcoreapp2.0\Salon.Api.AssemblyInfo.cs
+C:\Users\bebote\source\repos\Salon.EF\Salon.Api\obj\Debug\netcoreapp2.0\Salon.Api.dll
+C:\Users\bebote\source\repos\Salon.EF\Salon.Api\obj\Debug\netcoreapp2.0\Salon.Api.pdb

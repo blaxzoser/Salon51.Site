@@ -1,0 +1,13 @@
+C:\Users\bebote\source\repos\Salon.EF\TestDataBase\bin\Debug\netcoreapp2.0\TestDataBase.deps.json
+C:\Users\bebote\source\repos\Salon.EF\TestDataBase\bin\Debug\netcoreapp2.0\TestDataBase.runtimeconfig.json
+C:\Users\bebote\source\repos\Salon.EF\TestDataBase\bin\Debug\netcoreapp2.0\TestDataBase.runtimeconfig.dev.json
+C:\Users\bebote\source\repos\Salon.EF\TestDataBase\bin\Debug\netcoreapp2.0\TestDataBase.dll
+C:\Users\bebote\source\repos\Salon.EF\TestDataBase\bin\Debug\netcoreapp2.0\TestDataBase.pdb
+C:\Users\bebote\source\repos\Salon.EF\TestDataBase\bin\Debug\netcoreapp2.0\Salon.EF.dll
+C:\Users\bebote\source\repos\Salon.EF\TestDataBase\bin\Debug\netcoreapp2.0\Salon.EF.pdb
+C:\Users\bebote\source\repos\Salon.EF\TestDataBase\obj\Debug\netcoreapp2.0\TestDataBase.csprojResolveAssemblyReference.cache
+C:\Users\bebote\source\repos\Salon.EF\TestDataBase\obj\Debug\netcoreapp2.0\TestDataBase.csproj.CoreCompileInputs.cache
+C:\Users\bebote\source\repos\Salon.EF\TestDataBase\obj\Debug\netcoreapp2.0\TestDataBase.AssemblyInfoInputs.cache
+C:\Users\bebote\source\repos\Salon.EF\TestDataBase\obj\Debug\netcoreapp2.0\TestDataBase.AssemblyInfo.cs
+C:\Users\bebote\source\repos\Salon.EF\TestDataBase\obj\Debug\netcoreapp2.0\TestDataBase.dll
+C:\Users\bebote\source\repos\Salon.EF\TestDataBase\obj\Debug\netcoreapp2.0\TestDataBase.pdb
